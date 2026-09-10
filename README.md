@@ -1,1 +1,0 @@
-# normalizacao-bd-joana-uelemo
